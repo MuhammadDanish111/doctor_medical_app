@@ -1,16 +1,13 @@
-# doctor_app
+# WEATHER_APP WITH OPEN WEATHER API
+Hello! I have created doctor medical app in flutter
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## SCREENSHOT
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://github.com/MuhammadDanish111/doctor_medical_app/blob/master/assets/images/33ede0eb-a95a-4b20-a18d-1de3d8d622f8.jpg?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## CONTACT ME
+gmail: danishriasat112004@gmail.com
+linkedin: https://www.linkedin.com/in/muhammad-danish-204619245/
